@@ -39,6 +39,6 @@ a, a.active, a.visited, a.hover {
   color: #CCCCCC;
 }
 
-.triplesubtext li{
+li{
   list-style: none;
 }
